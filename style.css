@@ -1,0 +1,52 @@
+body
+{
+    background: linear-gradient(rgb(74, 194, 231) ,white,rgb(100, 210, 234));
+    /* background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-position: center; */
+}
+body img
+{
+    margin-left: 35%;
+}
+
+.first h2
+{
+    margin-left: 60px;
+    font-style:oblique;
+
+}
+.first hr
+{
+   height: 2px;
+   background-color: rgb(12, 11, 11);
+}
+.first label
+{
+    margin-left: 60px;
+    font-size: x-large;
+}
+.first input
+{
+    margin-left: 20px;
+    
+}
+.first select
+{
+    margin-left: 20px;
+    
+}
+.first button
+{
+    /* align-items: center;
+    display: flex; */
+
+    background-color: green;
+    font-size: large;
+    font-style: oblique;
+    margin-left: 40%;
+    width: 10%;
+    height: 35px;
+    
+}
